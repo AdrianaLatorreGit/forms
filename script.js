@@ -1,4 +1,3 @@
-//alert('eitaaaa')
 
 function tabuada(){
 let num = document.getElementById('txtn')
